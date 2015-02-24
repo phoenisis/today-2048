@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-2048 Widget-COSTouchVisualizer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-2048 Widget.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-2048-COSTouchVisualizer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-2048.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>33A4E04E84DE162CFC94B97A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7A564B951373810CFAD1051B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8C5EA378CE13276A3DBEAF4E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FAF5CD38267155A2E6F43BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

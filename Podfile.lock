@@ -1,0 +1,10 @@
+PODS:
+  - COSTouchVisualizer (1.0.5)
+
+DEPENDENCIES:
+  - COSTouchVisualizer
+
+SPEC CHECKSUMS:
+  COSTouchVisualizer: 289caa6d96b561361eae7a4d8ba79237d5c27c7a
+
+COCOAPODS: 0.35.0

@@ -1,0 +1,9 @@
+
+/* Class = "IBUILabel"; text = "score"; ObjectID = "bIp-3n-G4z"; */
+"bIp-3n-G4z.text" = "score";
+
+/* Class = "IBUIButton"; normalTitle = "Nouvelle partie"; ObjectID = "cGi-cU-Wrb"; */
+"cGi-cU-Wrb.normalTitle" = "Nouvelle partie";
+
+/* Class = "IBUILabel"; text = "score"; ObjectID = "uWC-aN-Yy8"; */
+"uWC-aN-Yy8.text" = "score";

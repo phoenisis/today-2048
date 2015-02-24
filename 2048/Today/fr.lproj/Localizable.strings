@@ -1,0 +1,14 @@
+/* 
+  localizedApp.strings
+  2048
+
+  Created by quentin PIDOUX on 27/01/2015.
+  Copyright (c) 2015 Connectiv'IT. All rights reserved.
+*/
+
+"NEW_GAME" = "Nouvelle partie";
+"SCORE %li" = "Score: %li";
+"HIGHSCORE" = "Meilleur score";
+"HIGHSCORE %li" = "Meilleur score : %li";
+"YOU_LOSE" = "Vous avez perdu !";
+"YOU_WON" = "Vous avez gagner !";

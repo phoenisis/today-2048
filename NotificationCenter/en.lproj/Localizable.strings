@@ -1,0 +1,14 @@
+/* 
+  localized.strings
+  2048
+
+  Created by quentin PIDOUX on 27/01/2015.
+  Copyright (c) 2015 Connectiv'IT. All rights reserved.
+*/
+
+"NEW_GAME" = "New Game";
+"SCORE %li" = "Score: %li";
+"HIGHSCORE" = "Highscore";
+"HIGHSCORE %li" = "Highscore: %li";
+"YOU_LOSE" = "You lose !";
+"YOU_WON" = "You won !";
